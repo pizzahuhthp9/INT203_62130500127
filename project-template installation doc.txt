@@ -1,0 +1,25 @@
+$ npm init @vitejs/app <project-name>
+$ cd <project-name>
+$ npm install
+
+$ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+$ npx tailwindcss init -p
+
+
+/*index.css*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+add import './index.css' in main.js
+
+create file similar to CLI
+
+$ npm install vue-router@4
+
+$ npm run dev
+
+reference
+https://v3.vuejs.org/guide/installation.html#vite
+https://tailwindcss.com/docs/guides/vue-3-vite
+https://next.router.vuejs.org/installation.html
