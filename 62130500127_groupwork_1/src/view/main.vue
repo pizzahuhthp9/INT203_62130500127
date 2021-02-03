@@ -1,6 +1,6 @@
 <template>
-  <link href="https://css.gg/css?=|box|crowdfire|home|layout-grid-small|music|play-button-o|play-list-add|play-list-search" rel="stylesheet">
   <div>
+    <link href="https://css.gg/css?=|box|crowdfire|home|layout-grid-small|music|play-button-o|play-list-add|play-list-search" rel="stylesheet">
     <div class="h-screen w-18 bg-white float-left fixed opacity-98 flex flex-col justify-start text-center">
       <div class="w-18 h-16"></div>
       <div class="w-18 h-18 hover:bg-gray-300 text-red-600">

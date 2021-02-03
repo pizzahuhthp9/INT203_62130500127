@@ -19,7 +19,7 @@
         <img v-bind:src="channelSrc" class="rounded-full w-9 h-9 bg-black" />
 
         <div class="w-56 h-auto">
-          <p class="pl-3 break-words text-sm w-48 font-medium">
+          <p class="pl-3 break-words text-sm w-48 font-medium overflow-ellipsis">
             {{name}}
           </p>
           <ul class="pl-3 text-sm text-gray-500">
